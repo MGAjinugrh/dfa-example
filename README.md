@@ -6,17 +6,17 @@ An assignment given in subject : Teknik Kompilasi by Dr. ASEP JUARNA, SSi, MKom.
 
 This assignment has our team explain of how Deterministic Finite Automa work with a case provided by our lecturer as follow :
 
-![Equation](../../media/equation.png)
+![Equation](../../media/equation.PNG)
 
 L represent Line of Token with a nd b as it components with m and n which has minimum value of 1.
 
-![Visualization of Line](../../media/visual.png)
+![Visualization of Line](../../media/visual.PNG)
 
 The picture above represent the visualization of Line with states.
 The A state act as input state.
 The D state act as output state.
 
-![State Table](../../media/table.png)
+![State Table](../../media/table.PNG)
 
 The table above represent the connectivity of each state.
 
